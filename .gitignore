@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+config.py
+
+.DS_Store
+.idea
+
+analyse
+anCom
+cleaned
+complete
+csv_line
+line message chat
+line message chat csv
